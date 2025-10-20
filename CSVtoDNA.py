@@ -1,7 +1,7 @@
 # Single Jupyter cell: CSV -> .dna (FASTA) converter (DNA-only)
 # Paste this entire cell into one Jupyter notebook code cell and run.
 # Configure the variables below (INPUT_CSV, OUTPUT_DIR) and run the cell.
-#
+# Run as ipynb
 # Requirements: pandas (`pip install pandas`)
 
 import os
